@@ -13,4 +13,4 @@ You can run your application in dev mode that enables live coding using:
 ```
 ## Author: Andy Suquilandi
 
-Ejemplo aplicando Extensiones y Priority
+Ejercicio aplicando Extensiones y Priority
