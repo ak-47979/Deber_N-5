@@ -1,7 +1,5 @@
 package com.uce.edu.pa2.api.as;
 
-import java.math.BigDecimal;
-
 import jakarta.annotation.Priority;
 import jakarta.enterprise.context.ApplicationScoped;
 
